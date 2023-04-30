@@ -1,0 +1,12 @@
+This is a line in the file
+This is a line in the file
+This is a line in the file
+ From: This is a line with from:
+This is a line in the file
+From xxx@uct.ac.za Sat Jan 5 xx:yy:zz 2023
+This is a line in the file
+From: This is a line with from:
+This is a line in the file
+This
+X-Spam-Confidence: 0.8474
+X-Spam-Confidence: 0.8471
