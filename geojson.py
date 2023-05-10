@@ -7,6 +7,7 @@ import urllib.request, urllib.parse, urllib.parse
 import json
 # serviceurl = 'https://maps.googleapis.com/maps/api/geocode/json?Ann+Arbor%2C+MI'
 serviceurl = 'https://maps.googleapis.com/maps/api/geocode/json?'
+# https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-apis
 
 while True:
     address = input('Enter location: ')
